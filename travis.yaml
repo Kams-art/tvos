@@ -1,0 +1,10 @@
+language: dart
+dart:
+  - stable
+notifications: email: false
+flutter:
+  - stable
+before_script:
+  - flutter pub get
+script:
+  - flutter analyze
