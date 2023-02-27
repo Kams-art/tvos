@@ -13,7 +13,7 @@ On this application you can :
 
 HomeScreen               |  Diapositiv
 :-------------------------:|:-------------------------:|
-[<img src="https://firebasestorage.googleapis.com/v0/b/test-bdb24.appspot.com/o/screen%2FSimulator%20Screen%20Shot%20-%20Apple%20TV%20-%202023-02-27%20at%2015.39.09.png?alt=media&token=2f9fef8b-f750-417c-b7db-09033fe05ee4" alt="Home Screen" width="350"/>]()|[<img src="https://firebasestorage.googleapis.com/v0/b/test-bdb24.appspot.com/o/screen%2FSimulator%20Screen%20Shot%20-%20Apple%20TV%20-%202023-02-27%20at%2015.39.34.png?alt=media&token=7d4ea2b6-5fae-460e-aa0e-7c1f389acee4" alt="Diapostiv" width="350"/>]()
+[<img src="https://github.com/Kams-art/Assets/blob/main/preview/tvos/home.png" alt="Home Screen" width="350"/>]()|[<img src="https://github.com/Kams-art/Assets/blob/main/preview/tvos/diapositiv.png" alt="Diapostiv" width="350"/>]()
 
 # Download
 
