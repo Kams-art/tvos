@@ -30,7 +30,6 @@ HomeScreen               |  Diapositiv
 <a href ="https://console.firebase.google.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>&nbsp;
-<a href ="https://graphql.org/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"></a>&nbsp;
 <a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"></a>&nbsp;
