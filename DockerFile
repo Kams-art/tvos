@@ -7,7 +7,7 @@ COPY . /app
 # Définir le répertoire de travail
 WORKDIR /app
 
-# Exécuter la commande pub get pour télécharger les dépendances
+# Exécuter la commande pub get pour télécharger les dépendance
 RUN pub get
 
 # Exécuter la commande de compilation pour générer un binaire exécutable
