@@ -17,7 +17,7 @@ HomeScreen               |  Diapositiv
 
 # Download
 
-<a href ="https://apps.apple.com/lk/app/kams/id1616390258"><img height="60" src="https://github.com/Kams-art/Assets/blob/main/logo/tvos/download.png"></a>&nbsp;
+<a href ="https://apps.apple.com/lk/app/kams/id1616390258"><img height="60" src="https://github.com/Kams-art/Assets/blob/main/logo/tvos/download.svg"></a>&nbsp;
 
 # Language
 
