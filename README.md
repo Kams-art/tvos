@@ -17,7 +17,7 @@ HomeScreen               |  Diapositiv
 
 # Download
 
-<a href ="https://apps.apple.com/lk/app/kams/id1616390258"><img height="60" src="https://firebasestorage.googleapis.com/v0/b/test-bdb24.appspot.com/o/Download_on_Apple_TV_Badge_US-UK_RGB_blk_092917.svg?alt=media&token=8c898afe-33a2-4954-b93b-d149954cdb1f"></a>&nbsp;
+<a href ="https://apps.apple.com/lk/app/kams/id1616390258"><img height="60" src="https://github.com/Kams-art/Assets/blob/main/logo/tvos/download.png"></a>&nbsp;
 
 # Language
 
@@ -52,5 +52,5 @@ Antoine Gonthier, 18 yo CEO & Founder at Kams and Epitech Student 🧑‍💻
   
 # License
 
-- This application is released under the MIT license and respect all the statue of the copyright
+- This application is released under the MIT license and respect all the statment of the copyright
 - Copyright © 2023 Kams Corporation, All right reseved.
