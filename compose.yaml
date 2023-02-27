@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   app:
-    container_name: kams
+    container_name: tvos
     build:
       context: .
       dockerfile: Dockerfile
