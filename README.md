@@ -21,23 +21,15 @@ HomeScreen               |  Diapositiv
 
 # Language
 
-<a href ="https://www.ruby-lang.org/fr/"><img height="28" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg"></a>&nbsp;
-<a href ="https://www.apple.com/fr/swift/"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg"></a>&nbsp;
-<a href =""><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"></a>&nbsp;
+<img src="https://skillicons.dev/icons?i=ruby,bash,swift" />
 
 # Back-end
 
-<a href ="https://console.firebase.google.com/"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg"></a>&nbsp;
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>&nbsp;
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>&nbsp;
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></a>&nbsp;
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"></a>&nbsp;
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"></a>&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,rails,firebase,js,sqlite" />
 
 # ML
 
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></a>&nbsp;
-<a href =""><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>&nbsp;
+<img src="https://skillicons.dev/icons?i=googlecloud,python" />
 
 # Supervisor:
 
